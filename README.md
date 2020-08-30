@@ -5,7 +5,9 @@
   </a>
 </p>
 
-> ThBook list app lets you add books your reading to a list and delete them as you would like. The point of this app was to learn more about JS hooks. Used context hook and reducer hook to manage the state.
+> The Book list app lets you add books your reading to a list and delete them as you would like.
+ The point of this app was to learn more about JS hooks.
+ Used all four hooks createContext, useReducer, useState, and useEffect to build this project. 
 
 ### ✨ [Demo](https://stark-spire-18890.herokuapp.com/)
 
@@ -35,9 +37,3 @@ npm run test
 * Github: [@rockysingh3  ](https://github.com/rockysingh3  )
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/rocky-singh-b6407010b\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/rocky-singh-b6407010b\/)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
